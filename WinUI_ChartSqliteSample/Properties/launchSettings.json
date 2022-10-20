@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI_ChartSqliteSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI_ChartSqliteSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

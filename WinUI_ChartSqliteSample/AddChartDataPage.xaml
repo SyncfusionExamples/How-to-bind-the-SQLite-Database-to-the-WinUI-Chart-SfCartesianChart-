@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="WinUI_ChartSqliteSample.AddChartDataPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinUI_ChartSqliteSample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.DataContext>
+        <local:ChartDataModel/>
+    </Page.DataContext>
+    <Page.Content>
+        <StackPanel Margin="20" Spacing="10">
+            <TextBlock Text="XValue"/>
+            <TextBox Text="{Binding XValue, Mode=TwoWay}"/>
+            <TextBlock Text="YValue"/>
+            <NumberBox Text="{Binding YValue, Mode=TwoWay}"/>
+            <Button Content="Save" Click="Insert_Clicked" Width="100"/>
+            <Button Content="Delete" Click="Delete_Clicked" Width="100"/>
+            <Button Content="Cancel" Click="Cancel_Clicked" Width="100"/>
+        </StackPanel>
+    </Page.Content>
+</Page>
