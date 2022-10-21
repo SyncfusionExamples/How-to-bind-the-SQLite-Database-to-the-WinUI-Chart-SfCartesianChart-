@@ -118,4 +118,22 @@ public partial class ChartSample : ContentPage
 
 ```
 
+## Output:
+
+![Displaying the database data in a ListView](https://user-images.githubusercontent.com/53489303/197127843-4f05decc-e96b-43bc-ae62-1c72d67e8d4f.png)
+
+_**Initial page to display the SQLite database data**_
+
+![Inserting an data item in the database](https://user-images.githubusercontent.com/53489303/197127829-c7fef669-0a32-4dda-8398-d9a56366d014.png)
+
+_**Inserting an item into the database**_
+
+![Output after inserting a data into the database](https://user-images.githubusercontent.com/53489303/197127813-ca892a71-2ffd-48c7-9fa0-1153659dedf4.png)
+
+_**After inserting data into the database**_
+
+![Chart output based on the database data](https://user-images.githubusercontent.com/53489303/197127796-6850b42d-58f2-4bde-ad21-8f61fb368a47.png)
+
+_**Display the chart with generated data**_
+
 Also, refer our [feature tour](https://www.syncfusion.com/winui-controls/charts) page to know more features available in our charts.
