@@ -2,7 +2,7 @@
 
 This example demonstrates how to show the SQLite database data to Chart. Please refer KB link for more details,
 
-KB article - [How to bind the SQLite Database to the WinUI Chart (SfCartesianChart)]()
+KB article - [How to bind the SQLite Database to the WinUI Chart (SfCartesianChart)](https://www.syncfusion.com/kb/13689/how-to-bind-the-sqlite-database-to-the-winui-chart-sfcartesianchart)
 
 Follow these steps to learn how to work with the WinUI Chart using the SQLite database.
 
