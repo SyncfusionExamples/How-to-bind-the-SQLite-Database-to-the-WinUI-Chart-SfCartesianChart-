@@ -136,4 +136,6 @@ _**After inserting data into the database**_
 
 _**Display the chart with generated data**_
 
-Also, refer our [feature tour](https://www.syncfusion.com/winui-controls/charts) page to know more features available in our charts.
+## See also
+
+Refer our [feature tour](https://www.syncfusion.com/winui-controls/charts) page to know more features available in our charts.
