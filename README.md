@@ -8,7 +8,7 @@ This example demonstrates how to show the SQLite database data to Chart. Please 
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For more details, refer to the KB on [How to create custom legend items in WPF Chart?](https://www.syncfusion.com/kb/13689/how-to-bind-the-sqlite-database-to-the-winui-chart-sfcartesianchart).
+For more details, refer to the KB on [How to bind the SQLite database to the WinUI Chart?](https://www.syncfusion.com/kb/13689/how-to-bind-the-sqlite-database-to-the-winui-chart-sfcartesianchart).
 
 Follow these steps to learn how to work with the WinUI Chart using the SQLite database.
 
