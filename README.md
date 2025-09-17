@@ -139,3 +139,5 @@ _**Display the chart with generated data**_
 ## See also
 
 Refer our [feature tour](https://www.syncfusion.com/winui-controls/charts) page to know more features available in our charts.
+
+**Kb Link** - [How to bind the SQLite Database to the WinUI Chart (SfCartesianChart)](https://support.syncfusion.com/kb/article/12058/how-to-bind-the-sqlite-database-to-the-winui-chart-sfcartesianchart)
